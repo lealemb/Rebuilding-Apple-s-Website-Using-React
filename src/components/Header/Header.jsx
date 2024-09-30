@@ -1,6 +1,6 @@
 import appleLogo from "../../assets/images/icons/logo.png";
 import searchLogo from "../../assets/images/icons/search-icon.png";
-
+import "./Header.css";
 import cartLogo from "../../assets/images/icons/cart.png";
 
 
